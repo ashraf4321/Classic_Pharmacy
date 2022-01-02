@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609517442 source:c:\c++\pharmacy\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
